@@ -1,0 +1,36 @@
+.product{
+    display: flex;
+    border-bottom: 5px solid lightcoral;
+    border-top    : 5px solid lightcoral;
+    border-right: 5px solid lightcoral; 
+    border-left: 5px solid lightcoral;
+    margin-bottom : 5 px ;
+    margin-right :  5 px  ;
+    padding-bottom : 5 px ;
+    border-radius: 10px;
+    
+
+
+}
+
+.product-name {
+
+    color : blue;
+    font-weight : 400;
+
+}
+
+.product-details{
+    
+    padding-left: 50px;
+
+}
+
+.main-button {
+    background-color :goldenrod;
+    width : 100px;
+    height:  25px;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,14 @@
+.shop-container{
+
+    display :flex;
+}
+
+.product-container{
+    width :50%;
+    margin-left : 20 px;
+    margin-right : 5px;
+    
+    border-radius: 5px;
+    padding-left: 200px;
+
+}
